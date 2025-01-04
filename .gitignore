@@ -1,0 +1,34 @@
+# Ignore EXe files
+*.exe
+
+# Ignore DLL files
+*.dll
+
+# Ignore PDB files
+*.pdb
+
+# Ignore User files
+*.user
+
+# Ignore Build files
+[Bb]in/
+
+# Ignore Obj files
+[Oo]bj/
+
+# Ignore Visual Studio files
+*.suo
+
+# Ignore Visual Studio files
+*.sln
+
+# Ignore Virtual Environment files
+env/
+venv/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore vscode files
+.vscode/
